@@ -9,7 +9,8 @@ I'm a **Software Developer** and **DevSecOps Professional**. I combine over 6 ye
 ## 🛠 Skills
 - **Android Development**: Expertise in mobile app development with a problem-solving mindset.  
 - **DevSecOps Practices**: Proficient in embedding security into CI/CD workflows.  
-- **Containerization**: Skilled with Docker, Kubernetes, and securing microservices.  
+- **Containerization**: Skilled with Docker, Kubernetes, and securing microservices.
+- **IAC**:  Automation using terraform, Ansible
 - **Application Security**: Hands-on experience with SAST, DAST, and SCA tools.  
 - **Monitoring & Observability**: Proficiency in Grafana, Prometheus, Cilium, and Hubble.  
 

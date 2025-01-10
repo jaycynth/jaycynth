@@ -1,6 +1,7 @@
-# Hi there 👋 Welcome to my GitHub!
+# Hi there 👋 
 
-I'm an **Android Developer** turned **DevSecOps Professional**, combining over 6 years of experience in mobile app development with a deep focus on secure software practices. As a **Certified DevSecOps Professional (CDP)** and **ISC CC**, I’m passionate about integrating security into every phase of the development lifecycle.
+I'm an **Android Developer** and **DevSecOps Professional**, combining over 6 years of experience in mobile app development with a deep focus on secure software practices. As a **Certified DevSecOps Professional (CDP)** and **ISC CC**, I’m passionate about integrating security into every phase of the development lifecycle.
+
 
 ---
 
@@ -28,7 +29,7 @@ I'm an **Android Developer** turned **DevSecOps Professional**, combining over 6
 
 ---
 
-### 🛠 Skills at a Glance
+### 🛠 Skills
 
 - **Android Development**: Expertise in mobile app development with a problem-solving mindset.  
 - **DevSecOps Practices**: Proficient in embedding security into CI/CD workflows.  
@@ -37,7 +38,24 @@ I'm an **Android Developer** turned **DevSecOps Professional**, combining over 6
 - **Monitoring & Observability**: Proficiency in Grafana, Prometheus, Cilium, and Hubble.  
 
 ---
+## 🛠️ Tools & Technologies
 
+### Development
+- **Languages**: Kotlin, Golang, Python, Bash  
+
+### DevSecOps & Application Security
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI  
+- **Security Tools**: 
+  - **SAST**: SonarQube, Checkmarx  
+  - **DAST**: OWASP ZAP, Burp Suite  
+  - **SCA**: Dependency-Track, Snyk  
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm  
+- **Security & Observability**: Cilium, Hubble  
+
+### Monitoring & Performance
+- Grafana, Prometheus, ELK Stack  
+
+---
 ### 🌟 Certifications
 
 - **Certified DevSecOps Professional (CDP)**  
@@ -57,5 +75,3 @@ I'm an **Android Developer** turned **DevSecOps Professional**, combining over 6
 - [LinkedIn](https://www.linkedin.com/in/juliana-k-05037622a/)  
 
 ---
-
-💡 **Fun Fact**: I believe that security is not just a step in development—it's a mindset that drives innovation and builds trust in the digital world.  

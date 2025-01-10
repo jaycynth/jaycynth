@@ -1,5 +1,5 @@
 # Hi there 👋 I am Juliana Cynthia
-I'm an **Android Developer** and **DevSecOps Professional**. I combine over 6 years of experience in mobile app development with a deep focus on secure software practices. I’m passionate about integrating security into every phase of the development lifecycle.
+I'm a **Software Developer** and **DevSecOps Professional**. I combine over 6 years of experience in mobile app development with a deep focus on secure software practices. I’m passionate about integrating security into every phase of the development lifecycle.
 
 ## 👨‍💻 About Me
 - 🔐 Bridging the gap between **Development**, **Security**, and **Operations** to deliver secure and high-performing applications.  

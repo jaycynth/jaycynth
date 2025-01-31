@@ -2,7 +2,6 @@
 I'm a **Software Developer** and **DevSecOps Professional**. I combine over 6 years of experience in mobile app development with a deep focus on secure software practices. I’m passionate about integrating security into every phase of the development lifecycle.
 
 ## 👨‍💻 About Me
-- 🔐 Bridging the gap between **Development**, **Security**, and **Operations** to deliver secure and high-performing applications.  
 - 📱 Experienced in building **Android Applications** that are user-friendly, robust, and scalable.  
 - 🛠 Skilled in **DevSecOps Practices**—embedding security within CI/CD pipelines, containerized environments, and modern application architectures.  
 
@@ -16,7 +15,7 @@ I'm a **Software Developer** and **DevSecOps Professional**. I combine over 6 ye
 
 ## 🛠️ Tools & Technologies
 ### Development
-- **Languages**: Kotlin, Golang, Python, Bash  
+- **Languages**: Kotlin, Golang, Bash  
 
 ### DevSecOps & Application Security
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI  

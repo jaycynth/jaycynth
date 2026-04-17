@@ -1,4 +1,4 @@
-# Hi, I'm Juliana Cynthia 👋
+# Hi 👋
 
 Mobile developer building **secure Android applications** — security isn't an afterthought in my work, it's part of the architecture. I bring 6+ years of Android experience together with a DevSecOps background to help teams ship fast *and* safely.
 
